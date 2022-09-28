@@ -12,3 +12,5 @@
 
 > https://jakevdp.github.io/PythonDataScienceHandbook/
 
+### Slides fra lektion
+> https://docs.google.com/presentation/d/1T4yIJQWL0n9LiJRp3TxHx1hvWyYyseyzG3C_I5F4gm8/edit?usp=sharing
