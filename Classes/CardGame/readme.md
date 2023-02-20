@@ -13,7 +13,7 @@ Use the two classes Card and Deck to implement the card game Blackjack between t
  The dealer stops hitting at 17.
 
 ## Step 1
-Draw a flowchart for the war game. it starts with shuffle the deck and end with one of the player wins
+Draw a flowchart for the blakjack game. it starts with shuffle the deck and end with one of the player wins
 
 ## Step 2
 Run the program game.py and modify the codes so that the game follows the rules. 
