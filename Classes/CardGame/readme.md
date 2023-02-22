@@ -19,7 +19,7 @@ Draw a flowchart for the war game. it starts with shuffle the deck and end with 
 Run the program game.py and modify the codes so that the game follows the rules. 
 
 ## Step 3
-Use classes Player, Hand and Game instead of the function you implemented in the step 3. 
+Wrap your codes in game.py into an object Game, which contains a main method as the main program for the entire program.
 
-## Step 4
+## Step 3
 Draw an UML diagram to illustrate the relations betweem Pile, Card, Deck, Player, Hand, and Game.
