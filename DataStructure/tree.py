@@ -17,6 +17,7 @@ def main():
     t.width(10)
     t.left(90)
     t.up()
+    
     t.backward(100)
     t.down()
     t.color("silver")
